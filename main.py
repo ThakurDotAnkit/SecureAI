@@ -9,7 +9,8 @@ from db.conversations import (
     get_conversation,
     get_all_conversations,
 )
-
+B=2
+A=B
 st.set_page_config(page_title="ChatGPT Clone", page_icon="💬", layout="centered")
 st.title("🤖 Local ChatGPT Clone")
 
